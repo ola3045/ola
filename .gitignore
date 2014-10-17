@@ -34,7 +34,7 @@ public class OlaFahrunnisa {
     System.out.print("Masukkan Tangga Lahir : ");
     tanggallahir = input.nextLine();
     
-    System.out.print("Masukkan e-mail : ");
+    System.out.print("Masukkan email : ");
     email = input.nextLine();
     
     
